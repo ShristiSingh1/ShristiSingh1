@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Shristi Singh
+**Data Analyst**
 
-<!--
-**ShristiSingh1/ShristiSingh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently learning **Excel, Power BI, SQL, Python**
 
-Here are some ideas to get you started:
+📫 You can reach out to me at **shristisingh1752001@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Fun fact: Inquisitive mind, data-driven future ahead!
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shristi-singh-data-analyst/)
+
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
+
